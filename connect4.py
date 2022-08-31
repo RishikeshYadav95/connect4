@@ -1,9 +1,6 @@
 '''
 Created on April 27th 2022
-@author: Rishikesh Yadav [CWID: 20007668]
-Pledge: I pledge my honor that I have abided by the Stevens Honor System.
-
-CS115 - Hw 13 - Connect4 (Board class)
+@author: Rishikesh Yadav
 '''
 
 class Board(object):
