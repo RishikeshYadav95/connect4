@@ -7,7 +7,7 @@ CS115 - Hw 13 - Connect4 (Board class)
 '''
 
 class Board(object):
-    '''Connect Four: a variation of tic-tac-toe played on a rectangular board. T'''
+    '''Connect Four: a variation of tic-tac-toe played on a rectangular board.'''
 
     # The constructor is always named __init__.
     def __init__(self, width = 7, height = 6):
